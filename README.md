@@ -1,0 +1,2 @@
+# OpenICG
+Analyze Impedance Cardiography
